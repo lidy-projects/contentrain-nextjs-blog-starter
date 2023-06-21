@@ -1,0 +1,11 @@
+[
+  {
+    "ID": "9f10f0e3-81c1-496a-ba42-4e2be00c2445",
+    "ButonName": "<p>Kredi</p>",
+    "IsButtonActionAvailable": true,
+    "ButonAction": "https://loan.co/kredi/ihtiyac-kredisi",
+    "IsWidgetAvailable": true,
+    "Widget": "",
+    "createdAt": 1687346213523
+  }
+]
