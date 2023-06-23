@@ -13,5 +13,10 @@
     "ID": "816e4f77-1dde-465f-bb69-3ba2d760567d",
     "Bankaisim": "AlternatifBank",
     "createdAt": 1687527737568
+  },
+  {
+    "ID": "2903b5f3-8eeb-4169-98e1-6c1b6a3bd480",
+    "Bankaisim": "Akbank",
+    "createdAt": 1687527744203
   }
 ]
