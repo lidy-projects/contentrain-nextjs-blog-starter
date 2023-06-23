@@ -23,5 +23,10 @@
     "ID": "f65be0a1-809f-4fb7-86c2-6349e1518300",
     "Bankaisim": "BurganBank",
     "createdAt": 1687527751984
+  },
+  {
+    "ID": "617b4dae-3e66-4c5f-bf85-5e6726fa80dd",
+    "Bankaisim": "Bank of China",
+    "createdAt": 1687527762825
   }
 ]
