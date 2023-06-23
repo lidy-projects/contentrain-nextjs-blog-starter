@@ -8,5 +8,10 @@
     "ID": "19902360-b048-4a27-a56c-cc2debca9fea",
     "Bankaisim": "Garanti BBVA",
     "createdAt": 1687527726462
+  },
+  {
+    "ID": "816e4f77-1dde-465f-bb69-3ba2d760567d",
+    "Bankaisim": "AlternatifBank",
+    "createdAt": 1687527737568
   }
 ]
