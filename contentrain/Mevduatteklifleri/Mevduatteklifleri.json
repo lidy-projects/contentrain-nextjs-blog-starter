@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "c0770025-721e-4c5b-86c5-34915b18ca9f",
+    "TeklifId": "1",
+    "BankaIsim": "fa689e88-9d73-4868-b202-9d2a11971902",
+    "HesapIsim": "E-Vadeli",
+    "BankIconUrl": "https://apptest.lidy.co/images/bankAssetsAmblemQnb.png",
+    "ButonName1": "<p>Hemen Başvur</p>",
+    "ButonAction1": "https://www.qnbfinansbank.com/birikim-ve-mevduat-urunleri",
+    "ButonName2": "<p>Detaylar</p>",
+    "ButonAction2": "https://loan.co/mevduat/mevduat-detay/",
+    "tag1": "<p>Lidy'e Özel</p>",
+    "BankSentence": "<p>En avantajlı mevduat oranları QNB Finansbank'ta!</p>",
+    "createdAt": 1687527951041
+  }
+]
