@@ -18,5 +18,10 @@
     "ID": "2903b5f3-8eeb-4169-98e1-6c1b6a3bd480",
     "Bankaisim": "Akbank",
     "createdAt": 1687527744203
+  },
+  {
+    "ID": "f65be0a1-809f-4fb7-86c2-6349e1518300",
+    "Bankaisim": "BurganBank",
+    "createdAt": 1687527751984
   }
 ]
