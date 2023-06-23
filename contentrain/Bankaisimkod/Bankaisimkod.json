@@ -3,5 +3,10 @@
     "ID": "fa689e88-9d73-4868-b202-9d2a11971902",
     "Bankaisim": "QNB Finansbank",
     "createdAt": 1687527714141
+  },
+  {
+    "ID": "19902360-b048-4a27-a56c-cc2debca9fea",
+    "Bankaisim": "Garanti BBVA",
+    "createdAt": 1687527726462
   }
 ]
