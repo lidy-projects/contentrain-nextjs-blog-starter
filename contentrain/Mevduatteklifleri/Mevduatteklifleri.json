@@ -9,10 +9,10 @@
     "butonAction1": "https://www.qnbfinansbank.com/birikim-ve-mevduat-urunleri",
     "butonName2": "<p>DETAYLAR</p>",
     "butonAction2": "https://loantestapi.lidy.co/basvuru/vadeli-mevduat/yonlendirme?id=X&amount=X&maturity=&ctX=Detail&activityStatus=All",
-    "tag1": "<p>Lidy'e Özel</p>",
     "bankSentence": "<p>Aradığınız teklif QNB Finansbank'ta!</p>",
     "createdAt": 1688370287011,
-    "updatedAt": 1688370431745
+    "updatedAt": 1688370431745,
+    "tag": "<p>Lidy'e Özel</p>"
   },
   {
     "ID": "fa12519b-1603-4737-95f1-879ba7471fb2",
