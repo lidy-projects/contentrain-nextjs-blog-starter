@@ -1,17 +1,16 @@
 [
   {
-    "ID": "c0770025-721e-4c5b-86c5-34915b18ca9f",
-    "tag1": "<p>Lidy'e Özel</p>",
-    "createdAt": 1687527951041,
-    "updatedAt": 1688368877345,
-    "OfferId": "1",
-    "BankName": "fa689e88-9d73-4868-b202-9d2a11971902",
-    "OfferName": "E-Vadelikkk",
+    "ID": "4e2a410c-fdd0-4df8-bcb5-5d428d6a5e49",
+    "offerId": "1",
+    "bankName": "fa689e88-9d73-4868-b202-9d2a11971902",
+    "offerName": "E-Vadeli Hesap",
     "bankIconUrl": "https://apptest.lidy.co/images/bankAssetsAmblemQnb.png",
-    "butonName1": "<p>Hemen Başvur</p>",
+    "butonName1": "<p>HEMEN BAŞVUR</p>",
     "butonAction1": "https://www.qnbfinansbank.com/birikim-ve-mevduat-urunleri",
-    "butonName2": "<p>Detaylar</p>",
-    "butonAction2": "https://loan.co/mevduat/mevduat-detay/",
-    "bankSentence": "<p>En avantajlı mevduat oranları QNB Finansbank'ta!</p>"
+    "butonName2": "<p>DETAYLAR</p>",
+    "butonAction2": "https://loantestapi.lidy.co/basvuru/vadeli-mevduat/yonlendirme?id=X&amount=X&maturity=&ctX=Detail&activityStatus=All",
+    "tag1": "<p>Lidy'e Özel</p>",
+    "bankSentence": "<p>Aradığınız teklif QNB Finansbank'ta!</p>",
+    "createdAt": 1688370287011
   }
 ]
