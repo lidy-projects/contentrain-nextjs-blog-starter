@@ -12,5 +12,19 @@
     "tag1": "<p>Lidy'e Özel</p>",
     "bankSentence": "<p>Aradığınız teklif QNB Finansbank'ta!</p>",
     "createdAt": 1688370287011
+  },
+  {
+    "ID": "fa12519b-1603-4737-95f1-879ba7471fb2",
+    "offerId": "2",
+    "bankName": "fa689e88-9d73-4868-b202-9d2a11971902",
+    "offerName": "Kur Korumalı Hesap",
+    "bankIconUrl": "https://apptest.lidy.co/images/bankAssetsAmblemQnb.png",
+    "butonName1": "<p>HEMEN BAŞVUR</p>",
+    "butonAction1": "https://www.qnbfinansbank.com/birikim-ve-mevduat-urunleri",
+    "butonName2": "<p>DETAYLAR</p>",
+    "butonAction2": "https://loantestapi.lidy.co/",
+    "tag1": "",
+    "bankSentence": "",
+    "createdAt": 1688370389656
   }
 ]
