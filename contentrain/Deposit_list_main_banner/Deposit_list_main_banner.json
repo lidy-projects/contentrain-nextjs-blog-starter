@@ -11,6 +11,6 @@
     "buttonName": "<p>Listelenen faiz oranları bankaların ilan ettiği tabela oranlarıdır, bankadan kredi teklifi alırken değişiklik gösterebilir.</p>",
     "buttonAction": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 33, 33);\">https://loantestapi.lidy.co/v1/deposit/list?</span></p>",
     "createdAt": 1688382057969,
-    "updatedAt": 1688382140514
+    "updatedAt": 1688382217684
   }
 ]
