@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ID": "2e51d9c3-5945-4d36-bcd8-726344d7cf05",
+    "headerLogo": "https://lidylogo-denemedir.co",
+    "headerLogoAction": "https://loantest.lidy.co",
+    "headerItemName1": "<p>Kredi</p>",
+    "headerItemAction1": "https://loantest.lidy.co/krediler/ihtiyac-kredisi",
+    "headerItemName2": "<p>Mevduat</p>",
+    "headerItemAction2": "https://loantest.lidy.co/krediler/ihtiyac-kredisi/vadeli-mevduat",
+    "headerItemName3": "<p>Kredi Kartı</p>",
+    "headerItemAction3": "https://loantest.lidy.co/kredi-karti",
+    "headerItemName4": "<p>Blog</p>",
+    "headerItemAction4": "https://loantest.lidy.co/blog",
+    "headerItemName5": "<p>Bize Ulaşın</p>",
+    "headerItemAction5": "https://loantest.lidy.co/bize-ulasin",
+    "createdAt": 1688381209780
+  }
+]
