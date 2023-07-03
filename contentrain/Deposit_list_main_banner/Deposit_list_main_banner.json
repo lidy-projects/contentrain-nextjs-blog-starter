@@ -7,10 +7,10 @@
     "componentTitle2": "<p>Mevduat Tutarı</p>",
     "componentTitle3": "<p>Vade</p>",
     "componentTitle1Warning": "<p>En az 10.000 TL - En fazla 1.000.000 TL</p>",
-    "bannerInfo": "",
-    "buttonName": "<p>Listelenen faiz oranları bankaların ilan ettiği tabela oranlarıdır, bankadan kredi teklifi alırken değişiklik gösterebilir.</p>",
+    "bannerInfo": "<p>Listelenen faiz oranları bankaların ilan ettiği tabela oranlarıdır, bankadan kredi teklifi alırken değişiklik gösterebilir.</p>",
+    "buttonName": "<p>YENİDEN HESAPLA</p>",
     "buttonAction": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 33, 33);\">https://loantestapi.lidy.co/v1/deposit/list?</span></p>",
     "createdAt": 1688382057969,
-    "updatedAt": 1688382217684
+    "updatedAt": 1688382339529
   }
 ]
