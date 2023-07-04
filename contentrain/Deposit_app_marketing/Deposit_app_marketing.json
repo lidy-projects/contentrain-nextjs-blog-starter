@@ -5,13 +5,13 @@
     "rank": 3,
     "mainTitle": "<p>Birikiminiz için pazarlık yapmamızı ister misiniz?</p>",
     "bannerImage": "https://denemedir.com",
-    "bullet1": "<p>Lidy mobil uygulamasını indirin.</p>",
     "bullet2": "<p>Size en uygun teklifi seçin, paranızı hakettiği faiz ile değerlendirin.</p>",
     "bullet3": "<p>Mevduatınız için size özel teklif isteyin.</p>",
     "buttonName": "<p>HEMEN İNDİR</p>",
     "buttonAction": "<p>https://denemeaction.com</p>",
     "bannerSeoTag": "deneme-tag",
     "createdAt": 1688383115052,
-    "updatedAt": 1688383183579
+    "updatedAt": 1688383183579,
+    "bullets": "<p>Lidy mobil uygulamasını indirin.</p>"
   }
 ]
