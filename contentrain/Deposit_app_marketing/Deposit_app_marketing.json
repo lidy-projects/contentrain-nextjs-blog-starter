@@ -5,7 +5,15 @@
     "rank": 3,
     "mainTitle": "<p>deneme</p>",
     "bannerImage": "https://deneme.co",
-    "bullets": [],
+    "bullets": [
+      {
+        "ID": "2af01731-b54a-47f9-b48e-f90e51ed803a",
+        "bullet1": "Lidy mobil uygulamasını indirin.",
+        "bullet2": "Size en uygun teklifi seçin, paranızı hakettiği faiz ile değerlendirin.",
+        "bullet3": "Mevduatınız için size özel teklif isteyin.",
+        "createdAt": 1688468261828
+      }
+    ],
     "buttonName": "<p>deneme</p>",
     "buttonAction": "<p>deneme</p>",
     "bannerSeoTag": "deneme",
