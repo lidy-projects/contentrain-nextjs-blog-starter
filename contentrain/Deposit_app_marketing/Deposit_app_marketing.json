@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ID": "876a0f54-0c07-4efb-892c-f32044acfc62",
+    "isVisible": true,
+    "rank": 3,
+    "mainTitle": "<p>deneme</p>",
+    "bannerImage": "https://deneme.co",
+    "bullets": [],
+    "buttonName": "<p>deneme</p>",
+    "buttonAction": "<p>deneme</p>",
+    "bannerSeoTag": "deneme",
+    "createdAt": 1688468120638
+  }
+]
