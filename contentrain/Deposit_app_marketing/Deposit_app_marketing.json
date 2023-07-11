@@ -17,6 +17,13 @@
     "buttonName": "<p>deneme</p>",
     "buttonAction": "<p>deneme</p>",
     "bannerSeoTag": "deneme",
-    "createdAt": 1688468120638
+    "createdAt": 1688468120638,
+    "bullets2": [
+      {
+        "ID": "9e216ce6-fd74-49b2-aab5-b6e0b83a6a21",
+        "name": "deneme1",
+        "createdAt": 1689074679078
+      }
+    ]
   }
 ]
