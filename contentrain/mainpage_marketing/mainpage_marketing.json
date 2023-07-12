@@ -9,7 +9,14 @@
     "buttonName": "HEMEN İNCELE",
     "buttonAction": "/credit/list?creditAmount=10000&creditType=1&carCreditType=&term=12",
     "seoTag": "tatil-kredisi",
-    "logName": [],
+    "logName": [
+      {
+        "ID": "7f3419a7-4618-4af1-8f23-aa9af655e219",
+        "eventName": "View Promotion ",
+        "logName": "mainPageMarketingBannerViewPromotion",
+        "createdAt": 1689169469587
+      }
+    ],
     "createdAt": 1689169431127
   }
 ]
