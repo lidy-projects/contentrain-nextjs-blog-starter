@@ -15,6 +15,12 @@
         "eventName": "View Promotion ",
         "logName": "mainPageMarketingBannerViewPromotion",
         "createdAt": 1689169469587
+      },
+      {
+        "ID": "850bedab-9ba5-4ac3-be64-8270197ef997",
+        "eventName": "Click Element",
+        "logName": "MainPageMarketingBannerClickElement",
+        "createdAt": 1689169498502
       }
     ],
     "createdAt": 1689169431127
