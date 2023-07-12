@@ -1,0 +1,15 @@
+[
+  {
+    "ID": "6c66e42b-2033-4373-a178-1a63ce9c615f",
+    "isVisible": true,
+    "rank": 4,
+    "bannerImage": "https://deneme.co",
+    "mainTitle": "Sİz tatİLİNİZİ planlayın, nakİt İHTİYACINIZI BİZ ÇÖZELİM.",
+    "subTitle": "",
+    "buttonName": "HEMEN İNCELE",
+    "buttonAction": "/credit/list?creditAmount=10000&creditType=1&carCreditType=&term=12",
+    "seoTag": "tatil-kredisi",
+    "logName": [],
+    "createdAt": 1689169431127
+  }
+]
