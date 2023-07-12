@@ -6,6 +6,12 @@
         "Title": "Yaşadığınız sorunu bizimle paylaşırsanız, en kısa zamanda geri dönüş yapacağız.",
         "Rank": 2,
         "createdAt": 1689159072318
+      },
+      {
+        "ID": "2dfba842-2c37-4164-aa6f-c9bb93f81a7b",
+        "Title": "Herhangi sorunda biz hep yanınızdayız!",
+        "Rank": 1,
+        "createdAt": 1689159087903
       }
     ],
     "createdAt": 1689159060978,
