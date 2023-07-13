@@ -5,7 +5,14 @@
     "rank": 5,
     "bannerImage": "",
     "mainTitle": "Karşılaştırma Yaparken Nelere Dikkat Etmelisiniz?",
-    "subTitles": [],
+    "subTitles": [
+      {
+        "ID": "2184b246-204d-4bb3-bd79-cff410d65b36",
+        "icon": "abc",
+        "subtitleText": "İhtiyaçlarınızı belirleyin: Buna göre Kredi, Mevduat ve Kredi Kartı kategorilerinden birini seçin.",
+        "createdAt": 1689248724285
+      }
+    ],
     "seoTag": "deneme-tag",
     "logName": [],
     "createdAt": 1689248692993
