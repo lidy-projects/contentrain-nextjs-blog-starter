@@ -7,7 +7,14 @@
     "subTitle": "",
     "infoText": "Kullanıcı Aydınlatma Metni'ni okudum. Lidy.co’ya özel içerik ve fırsatlar hakkında e-posta ile bilgi almak için İletişim İzni'ni onaylıyorum.",
     "buttonName": "KAYDOL",
-    "logNames": [],
+    "logNames": [
+      {
+        "ID": "bd0b9d73-cdca-4a58-bd2d-73aaa65bf7ec",
+        "eventName": "Form Start",
+        "logName": "mainPageSubscriptionFormStart",
+        "createdAt": 1689249440449
+      }
+    ],
     "createdAt": 1689249400484
   }
 ]
