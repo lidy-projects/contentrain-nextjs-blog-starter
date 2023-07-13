@@ -11,6 +11,12 @@
         "icon": "abc",
         "subtitleText": "İhtiyaçlarınızı belirleyin: Buna göre Kredi, Mevduat ve Kredi Kartı kategorilerinden birini seçin.",
         "createdAt": 1689248724285
+      },
+      {
+        "ID": "34bf08a8-c97e-4eda-bad0-9dc3c19b081f",
+        "icon": "abc",
+        "subtitleText": "Faiz oranlarını karşılaştırın: Kredi seçerken düşük faizli, mevduatınız için ise yüksek faizli ürünleri tercih etmelisiniz.",
+        "createdAt": 1689248742631
       }
     ],
     "seoTag": "deneme-tag",
