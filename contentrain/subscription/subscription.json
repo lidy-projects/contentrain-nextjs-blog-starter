@@ -13,6 +13,12 @@
         "eventName": "Form Start",
         "logName": "mainPageSubscriptionFormStart",
         "createdAt": 1689249440449
+      },
+      {
+        "ID": "adee6984-4eec-4440-8fc4-812ff50025b3",
+        "eventName": "Form Submit",
+        "logName": "mainpageSubscriptionFormSubmit",
+        "createdAt": 1689249460067
       }
     ],
     "createdAt": 1689249400484
