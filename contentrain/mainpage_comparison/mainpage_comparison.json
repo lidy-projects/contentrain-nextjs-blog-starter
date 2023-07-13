@@ -17,6 +17,12 @@
         "icon": "abc",
         "subtitleText": "Faiz oranlarını karşılaştırın: Kredi seçerken düşük faizli, mevduatınız için ise yüksek faizli ürünleri tercih etmelisiniz.",
         "createdAt": 1689248742631
+      },
+      {
+        "ID": "afff9dae-5267-4a0b-9e95-e6dfd85db309",
+        "icon": "abc",
+        "subtitleText": "Ücretleri karşılaştırın: Ürünleri incelerken bankaların talep ettiği ekstra ücretlere dikkat edin. Değerlendirmenizi buna göre yapın.",
+        "createdAt": 1689248754583
       }
     ],
     "seoTag": "deneme-tag",
