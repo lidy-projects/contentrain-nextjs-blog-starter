@@ -23,6 +23,12 @@
         "icon": "abc",
         "subtitleText": "Ücretleri karşılaştırın: Ürünleri incelerken bankaların talep ettiği ekstra ücretlere dikkat edin. Değerlendirmenizi buna göre yapın.",
         "createdAt": 1689248754583
+      },
+      {
+        "ID": "cbee3b92-bcd5-4949-9202-043f34a2c47a",
+        "icon": "abc",
+        "subtitleText": "Lidy'i takip edin: Unutmayın her zaman daha iyi bir oran yakalayabilirsiniz. Bankanızdan çok memnun olsanız da seçenekleri değerlendirmekten bir zarar gelmez :)",
+        "createdAt": 1689248765605
       }
     ],
     "seoTag": "deneme-tag",
